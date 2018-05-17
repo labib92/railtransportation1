@@ -108,24 +108,6 @@ public class EntityTest {
 
 
 
-       /* @Test
-    public void testCreatPart() throws Throwable{
-        Part part = new Part("0000-1", "My part");
-        // Save Entity in DataBase
-        //em.persist(part);
-
-
-       em.getTransaction().begin();
-
-       try {
-           em.persist(part);
-       }catch (Throwable t){
-           em.getTransaction().rollback();
-           throw t;
-       } finally {
-           em.getTransaction().commit();
-       }*/
-
 
 
 
